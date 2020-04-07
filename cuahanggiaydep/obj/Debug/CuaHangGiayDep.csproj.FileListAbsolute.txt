@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\CuaHangGiayDep\bin\Debug\CuaHangGiayDep.exe
+C:\Users\admin\source\repos\CuaHangGiayDep\bin\Debug\CuaHangGiayDep.pdb
+C:\Users\admin\source\repos\CuaHangGiayDep\obj\Debug\CuaHangGiayDep.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\CuaHangGiayDep\obj\Debug\CuaHangGiayDep.Form1.resources
+C:\Users\admin\source\repos\CuaHangGiayDep\obj\Debug\CuaHangGiayDep.Form3.resources
+C:\Users\admin\source\repos\CuaHangGiayDep\obj\Debug\CuaHangGiayDep.Properties.Resources.resources
+C:\Users\admin\source\repos\CuaHangGiayDep\obj\Debug\CuaHangGiayDep.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\CuaHangGiayDep\obj\Debug\CuaHangGiayDep.exe
+C:\Users\admin\source\repos\CuaHangGiayDep\obj\Debug\CuaHangGiayDep.pdb
+C:\Users\admin\source\repos\CuaHangGiayDep\obj\Debug\CuaHangGiayDep.FrmNhanVien.resources
